@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=e34f26"/>
+<img src="https://img.shields.io/badge/c-%23ffffff.svg?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/c++-%23ffffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black">
+<img src="https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5&logoColor=black"/>
 </p>
