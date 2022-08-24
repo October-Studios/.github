@@ -3,7 +3,15 @@
 </div>
 
 <p align="center">
+<em><b>✨Projects, Games, and More✨</b></em>
+</p>
+
+<p align="center">
 <b><a href="https://oct-studios.com">Blog</a></b>
+•
+<b><a href="https://undefinedref.com">Sister Site</a></b>
+•
+<b><a href="https://github.com/crhowell3">Personal</a></b>
 </p>
 
 <p align="center">
@@ -17,3 +25,9 @@
 <img src="https://img.shields.io/badge/lua-ffffff?style=for-the-badge&logo=lua&logoColor=black"/>
 <img src="https://img.shields.io/badge/bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=black"/>
 </p>
+
+<h2 align="center">
+Active Projects
+</h2>
+
+- [terebinth](https://github.com/October-Studios/terebinth) a modern interpreted programming language build on C++
