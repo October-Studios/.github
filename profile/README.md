@@ -9,6 +9,11 @@
 <p align="center">
 <img src="https://img.shields.io/badge/c-%23ffffff.svg?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/c++-%23ffffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black">
+<img src="https://img.shields.io/badge/c%23-ffffff?style=for-the-badge&logo=c%20sharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-ffffff?style=for-the-badge&logo=oracle&logoColor=black"/>
+<img src="https://img.shields.io/badge/.net-ffffff?style=for-the-badge&logo=dotnet&logoColor=black"/>
+<img src="https://img.shields.io/badge/lua-ffffff?style=for-the-badge&logo=lua&logoColor=black"/>
+<img src="https://img.shields.io/badge/bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=black"/>
 </p>
