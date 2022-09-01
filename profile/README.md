@@ -31,3 +31,4 @@ Active Projects
 </h2>
 
 - [terebinth](https://github.com/October-Studios/terebinth) a modern interpreted programming language build on C++
+- [autocommit.nvim](https://github.com/October-Studios/autocommit.nvim) a terrible plugin for neovim and version control
