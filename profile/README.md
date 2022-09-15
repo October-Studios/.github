@@ -31,5 +31,28 @@ Active Projects
 </h2>
 
 - [terebinth](https://github.com/October-Studios/terebinth) // a modern interpreted programming language build on C++
+  <a href="https://github.com/October-Studios/terebinth/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/terebinth.svg?style=flat-square&include_prereleases&logo=github&color=F2CDCD&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
+
 - [autocommit.nvim](https://github.com/October-Studios/autocommit.nvim) // a plugin for neovim and version control
+  <a href="https://github.com/October-Studios/autocommit.nvim/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/autocommit.nvim.svg?style=flat-square&include_prereleases&logo=github&color=F2CDCD&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
+
 - [color-roulette.nvim](https://github.com/October-Studios/color-roulette.nvim) // a plugin for randomizing favorite colorschemes
+  <a href="https://github.com/October-Studios/color-roulette.nvim/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/color-roulette.nvim.svg?style=flat-square&include_prereleases&logo=github&color=F2CDCD&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
