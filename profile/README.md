@@ -35,7 +35,7 @@ Active Projects
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/terebinth.svg?style=flat-square&include_prereleases&logo=github&color=F2CDCD&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/terebinth.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
     />
   </a>
 
@@ -53,6 +53,6 @@ Active Projects
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/color-roulette.nvim.svg?style=flat-square&include_prereleases&logo=github&color=F2CDCD&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/color-roulette.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
     />
   </a>
