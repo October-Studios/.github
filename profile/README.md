@@ -56,3 +56,12 @@ Active Projects
       src="https://img.shields.io/github/release/October-Studios/color-roulette.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
     />
   </a>
+  
+- [autoref.nvim](https://github.com/October-Studios/autoref.nvim) // a plugin for generating keybind references
+  <a href="https://github.com/October-Studios/autoref.nvim/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/autoref.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
