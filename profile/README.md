@@ -65,3 +65,9 @@ Active Projects
       src="https://img.shields.io/github/release/October-Studios/autoref.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
     />
   </a>
+
+<h2 align="center">
+Templates
+</h2>
+
+- [template.nvim](https://github.com/October-Studios/template.nvim) // a template repo for Neovim plugins
