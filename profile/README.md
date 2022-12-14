@@ -65,6 +65,15 @@ Active Projects
       src="https://img.shields.io/github/release/October-Studios/autoref.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
     />
   </a>
+  
+- [neoclippy.nvim](https://github.com/October-Studios/neoclippy.nvim) // a plugin integrating classic Clippy
+  <a href="https://github.com/October-Studios/neoclippy.nvim/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/neoclippy.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
 
 <h2 align="center">
 Templates
