@@ -80,3 +80,4 @@ Templates
 </h2>
 
 - [template.nvim](https://github.com/October-Studios/template.nvim) // a template repo for Neovim plugins
+- [mern-example](https://github.com/October-Studios/mern-example) // a template repo for MERN stack development
