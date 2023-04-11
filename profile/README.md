@@ -89,3 +89,11 @@ Templates
 
 - [template.nvim](https://github.com/October-Studios/template.nvim) // a template repo for Neovim plugins
 - [mern-example](https://github.com/October-Studios/mern-example) // a template repo for MERN stack development
+
+<h2 align="center">
+Stats
+</h2>
+
+<p align="center">
+  <img alt="GitHub Org's stars" align="center" src="https://img.shields.io/github/stars/October-Studios?style=for-the-badge">
+</p>
