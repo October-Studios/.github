@@ -69,6 +69,15 @@ Neovim Plugins
       src="https://img.shields.io/github/release/October-Studios/neoclippy.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
     />
   </a>
+  
+- [quitter.nvim](https://github.com/October-Studios/quitter.nvim) // a plugin for assisting dirty quits
+  <a href="https://github.com/October-Studios/neoclippy.nvim/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/quitter.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
 
 <h3 align="center">
 Other
