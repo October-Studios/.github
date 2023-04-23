@@ -84,7 +84,7 @@ Other
 </h3>
 
 - [muonium](https://github.com/October-Studios/muonium) // a python chess engine
-  <a href="https://github.com/October-Studios/terebinth/releases/latest">
+  <a href="https://github.com/October-Studios/muonium/releases/latest">
     <img
       alt="Releases"
       align="right"
