@@ -83,6 +83,15 @@ Neovim Plugins
 Other
 </h3>
 
+- [muonium](https://github.com/October-Studios/muonium) // a python chess engine
+  <a href="https://github.com/October-Studios/terebinth/releases/latest">
+    <img
+      alt="Releases"
+      align="right"
+      src="https://img.shields.io/github/release/October-Studios/muonium.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+    />
+  </a>
+  
 - [terebinth](https://github.com/October-Studios/terebinth) // a modern interpreted programming language build on C++
   <a href="https://github.com/October-Studios/terebinth/releases/latest">
     <img
