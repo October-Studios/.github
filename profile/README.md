@@ -92,7 +92,7 @@ Other
     />
   </a>
   
-- [terebinth](https://github.com/October-Studios/terebinth) // a modern interpreted programming language build on C++
+- [terebinth](https://github.com/October-Studios/terebinth) // a modern interpreted programming language built on C++
   <a href="https://github.com/October-Studios/terebinth/releases/latest">
     <img
       alt="Releases"
