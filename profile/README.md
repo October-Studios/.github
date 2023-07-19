@@ -114,4 +114,5 @@ Stats
 
 <p align="center">
   <img alt="GitHub Org's stars" align="center" src="https://img.shields.io/github/stars/October-Studios?style=for-the-badge">
+  <img alt="GitHub followers" align="center" src="https://img.shields.io/github/followers/October-Studios?style=for-the-badge">
 </p>
