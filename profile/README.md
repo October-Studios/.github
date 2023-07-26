@@ -115,4 +115,6 @@ Stats
 <p align="center">
   <img alt="GitHub Org's stars" align="center" src="https://img.shields.io/github/stars/October-Studios?style=for-the-badge&color=white&labelColor=black">
   <img alt="GitHub followers" align="center" src="https://img.shields.io/github/followers/October-Studios?style=for-the-badge&color=ffffff&labelColor=black">
+  <img alt="GitHub Sponsors" align="center" src="https://img.shields.io/github/sponsors/October-Studios?style=for-the-badge&color=ffffff&labelColor=black">
+  <img alt="Website" align="center" src="https://img.shields.io/website?url=https%3A%2F%2Foct-studios.com&style=for-the-badge&color=white&labelColor=black">
 </p>
