@@ -39,7 +39,7 @@ Neovim Plugins
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/autocommit.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/autocommit.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
 
@@ -48,7 +48,7 @@ Neovim Plugins
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/color-roulette.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/color-roulette.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
   
@@ -57,7 +57,7 @@ Neovim Plugins
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/autoref.nvim.svg?style=flat-square&include_prereleases&logo=github&color=F2CDCD&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/autoref.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
   
@@ -66,7 +66,7 @@ Neovim Plugins
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/neoclippy.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/neoclippy.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
   
@@ -75,7 +75,7 @@ Neovim Plugins
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/quitter.nvim.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/quitter.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
 
@@ -88,7 +88,7 @@ Other
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/muonium.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/muonium.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
   
@@ -97,7 +97,7 @@ Other
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/terebinth.svg?style=flat-square&include_prereleases&logo=github&color=cdf2cd&logoColor=d9e0ee&labelColor=282a36"
+      src="https://img.shields.io/github/release/October-Studios/terebinth.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
   
@@ -114,7 +114,7 @@ Stats
 
 <p align="center">
   <img alt="GitHub Org's stars" align="center" src="https://img.shields.io/github/stars/October-Studios?style=for-the-badge&color=white&labelColor=black">
-  <img alt="GitHub followers" align="center" src="https://img.shields.io/github/followers/October-Studios?style=for-the-badge&color=ffffff&labelColor=black">
-  <img alt="GitHub Sponsors" align="center" src="https://img.shields.io/github/sponsors/October-Studios?style=for-the-badge&color=ffffff&labelColor=black">
+  <img alt="GitHub followers" align="center" src="https://img.shields.io/github/followers/October-Studios?style=for-the-badge&color=white&labelColor=black">
+  <img alt="GitHub Sponsors" align="center" src="https://img.shields.io/github/sponsors/October-Studios?style=for-the-badge&color=white&labelColor=black">
   <img alt="Website" align="center" src="https://img.shields.io/website?url=https%3A%2F%2Foct-studios.com&style=for-the-badge&color=white&labelColor=black">
 </p>
