@@ -9,19 +9,15 @@
 <p align="center">
 <b><a href="https://oct-studios.com">Blog</a></b>
 •
-<b><a href="https://undefinedref.com">Sister Site</a></b>
-•
 <b><a href="https://github.com/crhowell3">Personal</a></b>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c-%23ffffff.svg?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/c++-%23ffffff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black">
-<img src="https://img.shields.io/badge/c%23-ffffff?style=for-the-badge&logo=c%20sharp&logoColor=black"/>
 <img src="https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/java-ffffff?style=for-the-badge&logo=oracle&logoColor=black"/>
-<img src="https://img.shields.io/badge/.net-ffffff?style=for-the-badge&logo=dotnet&logoColor=black"/>
+<img src="https://img.shields.io/badge/rust-ffffff?style=for-the-badge&logo=rust&logoColor=black"/>
 <img src="https://img.shields.io/badge/lua-ffffff?style=for-the-badge&logo=lua&logoColor=black"/>
 <img src="https://img.shields.io/badge/bash-ffffff?style=for-the-badge&logo=gnubash&logoColor=black"/>
 </p>
@@ -58,24 +54,6 @@ Neovim Plugins
       alt="Releases"
       align="right"
       src="https://img.shields.io/github/release/October-Studios/autoref.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
-    />
-  </a>
-  
-- [neoclippy.nvim](https://github.com/October-Studios/neoclippy.nvim) // a plugin integrating classic Clippy
-  <a href="https://github.com/October-Studios/neoclippy.nvim/releases/latest">
-    <img
-      alt="Releases"
-      align="right"
-      src="https://img.shields.io/github/release/October-Studios/neoclippy.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
-    />
-  </a>
-  
-- [quitter.nvim](https://github.com/October-Studios/quitter.nvim) // a plugin for assisting dirty quits
-  <a href="https://github.com/October-Studios/neoclippy.nvim/releases/latest">
-    <img
-      alt="Releases"
-      align="right"
-      src="https://img.shields.io/github/release/October-Studios/quitter.nvim.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
     />
   </a>
 
