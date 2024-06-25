@@ -71,11 +71,11 @@ Other
   </a>
   
 - [terebinth](https://github.com/October-Studios/terebinth) // a modern interpreted programming language built on C++
-  <a href="https://github.com/October-Studios/terebinth/releases/latest">
+  <a href="https://github.com/October-Studios/terebinth">
     <img
       alt="Releases"
       align="right"
-      src="https://img.shields.io/github/release/October-Studios/terebinth.svg?style=for-the-badge&include_prereleases&logo=github&color=white&logoColor=white&labelColor=black"
+      src="https://img.shields.io/crates/v/terebinth?style=for-the-badge&logo=rust&color=white&logoColor=white&labelColor=black"
     />
   </a>
   
